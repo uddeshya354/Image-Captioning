@@ -73,10 +73,6 @@ The model was trained in **Google Colab** using the following setup:
 
 
 
-### **Training Steps**
-1. Open the Colab Notebook: `model_training/model_training.ipynb`.
-2. Upload the dataset or set the correct paths.
-3. Train the model and evaluate its performance.
 
 ---
 
