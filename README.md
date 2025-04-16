@@ -94,10 +94,7 @@ The model is trained in **Google Colab** using the following configuration:
   - The model generates descriptive captions for unseen images.
   - Attention maps highlight image regions the model focuses on during word prediction.
 
-- **Quantitative Results**
-  - Evaluated using **BLEU (Bilingual Evaluation Understudy)** scores to measure caption quality.
 
----
 
 ## 🛠️ **Setup and Usage**
 
